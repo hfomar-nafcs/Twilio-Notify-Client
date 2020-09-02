@@ -1,4 +1,4 @@
-<h1>Twilio Notify Client License</h1>                     
+# Twilio Notify Client License                
                    
                    GNU GENERAL PUBLIC LICENSE
                        Version 2, June 1991
@@ -389,5 +389,5 @@ https://www.twilio.com/legal/tos
    
    # State Changes
    
-   <b>Python 3.8.5</b> has only been modified by the following
+   Python 3.8.5 has only been modified by the following
    creating a virtual enviorment contained in the project folders and installing the Twilio Module
